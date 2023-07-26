@@ -8,6 +8,7 @@
   text-align: center;
   flex-direction: row; /* Utilisez flex-direction: row pour afficher les éléments horizontalement */
   align-items: center;
+  justify-content: center;
 }
 
 .navbar-1 ul {
@@ -73,6 +74,89 @@
 }
 
 .navbar-hxh img {
+<<<<<<< Updated upstream
+=======
+  height: 40px;
+  margin: 0 10px; /* Ajustez la marge selon vos besoins */
+  vertical-align: middle;
+}
+
+/* Styles for the KNY navbar */
+.navbar-kny {
+  background-color: #397415;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: row; /* Utilisez flex-direction: row pour afficher les éléments horizontalement */
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-kny ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; */ /* Vous n'avez pas besoin de cette propriété pour la navbar */
+}
+
+.navbar-kny li {
+  display: inline-block;
+  /* margin: 0 10px; */ /* Vous pouvez ajuster la marge selon vos besoins */
+}
+
+.navbar-kny li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px; /* J'ai réduit la taille de police pour mieux s'adapter à la navbar */
+}
+
+.navbar-kny img {
+  height: 40px;
+  margin: 0 10px; /* Ajustez la marge selon vos besoins */
+  vertical-align: middle;
+}
+
+/* Styles for the IO navbar */
+.navbar-op {
+  background-color: #3E43C9;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: row; /* Utilisez flex-direction: row pour afficher les éléments horizontalement */
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-op ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; */ /* Vous n'avez pas besoin de cette propriété pour la navbar */
+}
+
+.navbar-op li {
+  display: inline-block;
+  /* margin: 0 10px; */ /* Vous pouvez ajuster la marge selon vos besoins */
+}
+
+.navbar-op li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px; /* J'ai réduit la taille de police pour mieux s'adapter à la navbar */
+}
+
+.navbar-op img {
+>>>>>>> Stashed changes
   height: 40px;
   margin: 0 10px; /* Ajustez la marge selon vos besoins */
   vertical-align: middle;
