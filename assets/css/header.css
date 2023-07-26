@@ -1,0 +1,9 @@
+/* header */
+
+.header{
+    background: url(../img/EasterTeamSamuraiFull_19.png) no-repeat;
+    text-align: center;
+    color: white;
+    padding: 200px;
+    background-attachment: fixed;
+}
