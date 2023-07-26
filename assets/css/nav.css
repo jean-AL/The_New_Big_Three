@@ -1,0 +1,165 @@
+/* Styles for the first navbar */
+.navbar-1 {
+  background-color: #289DA5;
+  padding: 20px;
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: row; /* Utilisez flex-direction: row pour afficher les éléments horizontalement */
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-1 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; */ /* Vous n'avez pas besoin de cette propriété pour la navbar */
+}
+
+.navbar-1 li {
+  display: inline-block;
+  /* margin: 0 10px; */ /* Vous pouvez ajuster la marge selon vos besoins */
+  vertical-align: middle; /* Utilisez vertical-align: middle pour centrer verticalement les éléments */
+}
+
+.navbar-1 li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: Rockwell;
+  font-size: 20px; /* J'ai réduit la taille de police pour mieux s'adapter à la navbar */
+}
+
+.navbar-1 img {
+  height: 40px;
+  margin: 0 10px; /* Ajustez la marge selon vos besoins */
+  vertical-align: middle;
+}
+
+/* Styles for the HxH navbar */
+.navbar-hxh {
+  background-color: #397415;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: row; /* Utilisez flex-direction: row pour afficher les éléments horizontalement */
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-hxh ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; */ /* Vous n'avez pas besoin de cette propriété pour la navbar */
+}
+
+.navbar-hxh li {
+  display: inline-block;
+  /* margin: 0 10px; */ /* Vous pouvez ajuster la marge selon vos besoins */
+}
+
+.navbar-hxh li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px; /* J'ai réduit la taille de police pour mieux s'adapter à la navbar */
+}
+
+.navbar-hxh img {
+  height: 40px;
+  margin: 0 10px; /* Ajustez la marge selon vos besoins */
+  vertical-align: middle;
+}
+
+/* Styles for the KNY navbar */
+.navbar-kny {
+  background-color: #9D0707;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: row; /* Utilisez flex-direction: row pour afficher les éléments horizontalement */
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-kny ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; */ /* Vous n'avez pas besoin de cette propriété pour la navbar */
+}
+
+.navbar-kny li {
+  display: inline-block;
+  /* margin: 0 10px; */ /* Vous pouvez ajuster la marge selon vos besoins */
+}
+
+.navbar-kny li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px; /* J'ai réduit la taille de police pour mieux s'adapter à la navbar */
+}
+
+.navbar-kny img {
+  height: 40px;
+  margin: 0 10px; /* Ajustez la marge selon vos besoins */
+  vertical-align: middle;
+}
+
+/* Styles for the IO navbar */
+.navbar-op {
+  background-color: #3E43C9;
+  padding: 10px;
+  position: relative;
+  text-align: center;
+  display: flex;
+  flex-direction: row; /* Utilisez flex-direction: row pour afficher les éléments horizontalement */
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-op ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  /* overflow: hidden; */ /* Vous n'avez pas besoin de cette propriété pour la navbar */
+}
+
+.navbar-op li {
+  display: inline-block;
+  /* margin: 0 10px; */ /* Vous pouvez ajuster la marge selon vos besoins */
+}
+
+.navbar-op li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 16px; /* J'ai réduit la taille de police pour mieux s'adapter à la navbar */
+}
+
+.navbar-op img {
+  height: 40px;
+  margin: 0 10px; /* Ajustez la marge selon vos besoins */
+  vertical-align: middle;
+}
+
+/* Ajoutez une classe de contenu (content) pour éviter que le contenu principal ne se chevauche avec la navbar */
+.content {
+  margin-top: 70px; /* Ajustez la marge selon la hauteur de votre navbar */
+}
