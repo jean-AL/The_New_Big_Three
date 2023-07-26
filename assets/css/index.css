@@ -4,7 +4,7 @@
     height: 783px;
     flex-shrink: 0;
     
-    background-image:url(/assets/img/image.png), cover no-repeat;
+    background-image:url(/assets/img/images.jfif), cover no-repeat;
     background:fixed;
     display:flex;
 }
