@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.page-background {
+  background-image: url("/assets/img/a4d9dd1d-4ab0-48a4-87bb-cd2d112749e1_1689684325739852350.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  position: relative; /* Ajout de la propriété position relative pour les éléments positionnés à l'intérieur */
+}
+
+.text-overlay {
+  position: absolute;
+  top: 20%; /* Centrer verticalement */
+  left: 50%; /* Centrer horizontalement */
+  transform: translate(-50%, -50%); /* Centrer précisément */
+  padding: 20px; /* Ajout de marges pour l'espace du texte */
+  background-color: rgba(0, 0, 0, 0.6); /* Couleur noire transparente */
+  color: white; /* Couleur du texte */
+  font-size: 24px;
+  font-family: Mali;
+  max-width: 80%; /* Limiter la largeur du texte */
+}
