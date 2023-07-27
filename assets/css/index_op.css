@@ -1,0 +1,19 @@
+body { margin:0; padding: 0}
+
+.Welcome-op {
+    background-image: url("/assets/img/one-piece-going-merry-wallpaper-1280x800_3.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            min-height: 100vh;
+            position: relative; /* Ajout de position relative pour contenir le texte */
+            color: black; /* Couleur du texte */
+}
+
+.Welcome-op p {
+    position: absolute; /* Utilisation de position absolue pour positionner le texte */
+    top: 20px; /* Ajustement de la position verticale du texte */
+    left: 20px; /* Ajustement de la position horizontale du texte */
+    font-size: 30px; /* Ajustement de la taille du texte */
+    max-width: 600px; /* Limite la largeur du paragraphe pour éviter qu'il ne devienne trop large */
+}
