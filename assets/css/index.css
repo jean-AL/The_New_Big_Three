@@ -1,22 +1,23 @@
 
+
 .background{
-    width: 1440px;
-    height: 783px;
-    flex-shrink: 0;
-    
-    background-image:url(/assets/img/img-background.png)cover no-repeat;
-    background:fixed;
-    display:flex;
+width:1920px;
+height:1080px;
+ margin:auto;
+ padding:0px;
+ display: flex;
+ background: url(/assets/img/image\ v.jpg), lightgray 70%;
+ 
 }
 
 .text{
- width: 377px;
- height: 677px;
- flex-shrink: 0;
- color:blue;
+ color:white;
  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
- font-size: 40px;
+ font-size: 50px;
  font-style: normal;
  font-weight: 400;
  line-height: normal;
+ text-align:left;
+ 
 }
+
