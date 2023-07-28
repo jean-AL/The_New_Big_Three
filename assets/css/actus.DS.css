@@ -1,0 +1,38 @@
+@import url(/assets/css/nav.css);
+
+
+h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align:right;
+    align-items:center;
+    color:black;
+    position: absolute;
+    margin:150px;
+    padding: 45px;
+}
+
+img{
+    margin-top: 10px;
+    padding:0;
+    flex-shrink: 0;
+    border-radius:10%;
+    flex-shrink: 0;
+    align-items:right;
+
+}
+
+
+img.logo{
+    
+    align-items:right;
+    color:black;
+    position: absolute;
+    position: absolute;
+    align-items:right;
+    margin:150px;
+    padding: 45px;
+}
