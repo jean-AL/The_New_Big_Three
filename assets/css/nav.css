@@ -109,13 +109,9 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-<<<<<<< Updated upstream
   font-family: Macondo;
-  font-size: 16px; /* J'ai réduit la taille de police pour mieux s'adapter à la navbar */
-=======
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 25px;
->>>>>>> Stashed changes
+
 }
 
 .navbar-kny img {
@@ -154,13 +150,9 @@
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-<<<<<<< Updated upstream
   font-family: Macondo;
-  font-size: 16px; /* J'ai réduit la taille de police pour mieux s'adapter à la navbar */
-=======
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 25px;
->>>>>>> Stashed changes
+
 }
 
 .navbar-op img {
