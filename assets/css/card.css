@@ -1,17 +1,48 @@
 /* card */
 
-.global{
-    display: flex;
-    justify-content: center;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.card-container {
+    display: flex; /* Ajout de la propriété flex pour aligner les cartes côte à côte */
+    justify-content: space-between; /* Espacement égal entre les cartes */
+    background-color: #D9D9D9;
 }
 
 .card {
-    box-shadow: 0 8px 12px 0;
-    width: 30%;
-    margin: 20px;
+    width: 233px;
+    height: 503px;
+    border-radius: 10px; /* Bordures arrondies */
+    overflow: hidden; /* Empêche le contenu de déborder */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Ombre pour l'effet de carte */
+    margin: 150px; /* Espace entre les cartes */
 }
 
-.container{
-    padding: 20px;
-    text-align: center;
+.card-image {
+    width: 233px;
+    height: 323px;
+    object-fit: cover; /* Assure que l'image est correctement ajustée */
+}
+
+.card-content {
+    padding: 10px;
+}
+
+.card-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+.card-text {
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+a {
+    text-decoration: none; /* Supprime le soulignement des liens */
+    color: inherit; /* Utilise la couleur par défaut du texte */
 }
