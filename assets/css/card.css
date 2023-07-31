@@ -19,6 +19,9 @@ body {
     overflow: hidden; /* Empêche le contenu de déborder */
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Ombre pour l'effet de carte */
     margin: 150px; /* Espace entre les cartes */
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
 }
 
 .card-image {
