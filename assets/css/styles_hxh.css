@@ -29,7 +29,8 @@ body {
 }
 
 .title_actus {
-  font-family: 'Holtwood One SC', sans-serif;
+  font-family: 'Jomhuria', sans-serif;
+  font-size: 500%;
   text-align: center; /* Centre le texte à l'intérieur de son conteneur */
   margin-left: 40%;
 }
