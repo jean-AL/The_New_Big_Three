@@ -1,42 +1,38 @@
 body { margin:0; padding: 0;
     /*font-family: 'Macondo', cursive;*/
-    background: linear-gradient(blue, white);
+    background-color: #B0CBFF;
 }
 
-.content-author_op img {
-    width: 390px;
-    height: 638px;
+/*.img-straw-hats {
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 50px;
+}*/
+
+.image-history img {
     float: left; /* Aligner l'image à gauche */
-    margin-top: 20px;
+    margin-top: 50px;
     margin-right: 20px; /* Ajouter un espace entre l'image et le texte */
     margin-left: 20px;
-    border-radius: 25px;
-}
-
-#logo-titre-op {
+    border-radius: 75px;
+  }
+  
+  /* CSS pour le logo */
+  #logo-titre-op {
     float: right; /* Aligner le dernier logo à droite */
-    margin-top: -100px;
+    margin-top: 0px;
     margin-left: 20px; /* Ajouter un espace entre l'image et le texte */
-    margin-right: 240px;
+    margin-right: 150px;
     clear: right; /* Éviter que des éléments flottants apparaissent à gauche du logo */
-    block-size: auto;
-    width: 650px;
-    height: 366px;
-}
-
-.content-author_op h6 {
-    font-size: 50px;
-    margin-top: 45px;
-    margin-left: 60px;
-    margin-right: 850px;
-    margin-bottom: 0px;
-}
-
- p {
+  }
+  
+  /* CSS pour le paragraphe sous le logo */
+  .image-history p {
     float: right;
     width: 900px;
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-right: 90px;
+    margin-right: 20px;
     font-size: 28px;
-}
+  }
+
