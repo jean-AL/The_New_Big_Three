@@ -1,0 +1,239 @@
+body { margin:0; padding: 0;
+    /*font-family: 'Macondo', cursive;*/
+    background-color: #B0CBFF;
+}
+
+.card-main img {
+
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.card-main p {
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+
+}
+
+.card-main h2 {
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+/*              CARD POUR LUFFY                    */
+
+
+#Luffy {
+    width: 409px;
+    height: 896px;
+    border-radius: 76px;
+    overflow: hidden;
+    margin-top: 70px;
+    display: inline-block;
+
+    /*             DISPOSITION CARD                 */
+
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#Luffy .card-image {
+    width: 409px;
+    height: 524.38px;
+    border-radius: 76px;
+    /* image-rendering: auto; */
+    object-fit: cover;
+}
+
+
+/*                   CARD POUR ZORO                        */
+
+
+#Zoro {
+    width: 409px;
+    height: 896px;
+    border-radius: 76px;
+    overflow: hidden;
+    margin-top: 70px;
+    display: inline-block;
+
+    /*             DISPOSITION CARD                 */
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Zoro .card-image {
+    width: 409px;
+    height: 509.21px;
+    border-radius: 76px;
+    object-fit: cover;
+}
+
+
+/*                 CARD POUR NAMI                         */
+
+#Nami {
+    width: 409px;
+    height: 896px;
+    border-radius: 76px;
+    overflow: hidden;
+    margin-top: 70px;
+    display: inline-block;
+
+    /*             DISPOSITION CARD                 */
+
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+#Nami .card-image {
+    width: 409px;
+    height: 569.37px;
+    border-radius: 76px;
+    object-fit: cover;
+}
+
+
+
+/*                                     2 EME PARTIE DE PAGE SECTION DIVERS                                       */
+
+
+
+.card-divers p {
+
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+
+}
+
+#Boxers {
+
+    width: 184px;
+    height: 316px;
+    overflow: hidden;
+    margin-top: 70px;
+    display: inline-block;
+
+    /*             DISPOSITION CARD                 */
+
+    margin-left: 55px;
+    margin-right: 55px;
+
+}
+
+#Boxers .card-image {
+
+    width: 184px;
+    height: 159px;
+    border-radius: 30px;
+    object-fit: cover;
+
+}
+
+#Vans {
+
+    width: 184px;
+    height: 316px;
+    overflow: hidden;
+    margin-top: 70px;
+    display: inline-block;
+    
+    /*             DISPOSITION CARD                 */
+
+    margin-left: 55px;
+    margin-right: 55px;
+
+}
+
+#Vans .card-image {
+
+    width: 184px;
+    height: 159px;
+    border-radius: 30px;
+    object-fit: cover;
+
+}
+
+#Serviette {
+
+    width: 184px;
+    height: 316px;
+    overflow: hidden;
+    margin-top: 70px;
+    display: inline-block;
+    
+    /*             DISPOSITION CARD                 */
+
+    margin-left: 55px;
+    margin-right: 55px;
+
+}
+
+#Serviette .card-image {
+
+    width: 184px;
+    height: 159px;
+    border-radius: 30px;
+    object-fit: cover;
+
+}
+
+#Bedding {
+
+    width: 184px;
+    height: 316px;
+    overflow: hidden;
+    margin-top: 70px;
+    display: inline-block;
+    
+    /*             DISPOSITION CARD                 */
+
+    margin-left: 55px;
+    margin-right: 55px;
+
+}
+
+#Bedding .card-image {
+
+    width: 184px;
+    height: 159px;
+    border-radius: 30px;
+    object-fit: cover;
+
+}
+
+#Serviette-2 {
+
+    width: 184px;
+    height: 316px;
+    overflow: hidden;
+    margin-top: 70px;
+    display: inline-block;
+    
+    /*             DISPOSITION CARD                 */
+
+    margin-left: 55px;
+    margin-right: 55px;
+
+}
+
+#Serviette-2 .card-image {
+
+    width: 184px;
+    height: 159px;
+    border-radius: 30px;
+    object-fit: cover;
+
+}
