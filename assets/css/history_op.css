@@ -1,0 +1,38 @@
+body { margin:0; padding: 0;
+    /*font-family: 'Macondo', cursive;*/
+    background-color: #B0CBFF;
+}
+
+/*.img-straw-hats {
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 50px;
+}*/
+
+.image-history img {
+    float: left; /* Aligner l'image à gauche */
+    margin-top: 50px;
+    margin-right: 20px; /* Ajouter un espace entre l'image et le texte */
+    margin-left: 20px;
+    border-radius: 75px;
+  }
+  
+  /* CSS pour le logo */
+  #logo-titre-op {
+    float: right; /* Aligner le dernier logo à droite */
+    margin-top: 0px;
+    margin-left: 20px; /* Ajouter un espace entre l'image et le texte */
+    margin-right: 150px;
+    clear: right; /* Éviter que des éléments flottants apparaissent à gauche du logo */
+  }
+  
+  /* CSS pour le paragraphe sous le logo */
+  .image-history p {
+    float: right;
+    width: 900px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: 20px;
+    font-size: 28px;
+  }
+

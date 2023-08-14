@@ -1,9 +1,25 @@
 /* header */
 
-.header{
-    background: url(./img/a4d9dd1d-4ab0-48a4-87bb-cd2d112749e1_1689684325739852350.png) no-repeat;
-    text-align: center;
-    color: white;
-    padding: 200px;
-    background-attachment: fixed;
+.header {
+    background: url(../img/Hunter_x_hunter.png) no-repeat center top;
+    background-color: #4E9F56;
+    background-size: contain;
+    height: 200px; /* Ajustez cette valeur en fonction de la hauteur souhaitée */
 }
+
+.header_actus {
+    background: url(../img/hxh_actus1.png) no-repeat center top;
+    background-color: #4E9F56;
+    background-size: contain;
+    height: 500px; /* Ajustez cette valeur en fonction de la hauteur souhaitée */
+    margin-top: 50px; /* Ajoutez une marge en haut pour séparer du titre */
+}
+
+.header_nendoroid {
+    background: url(../img/Nendoroid.png) no-repeat center top;
+    background-color: #4E9F56;
+    background-size: contain;
+    height: 500px; /* Ajustez cette valeur en fonction de la hauteur souhaitée */
+    margin-top: 50px; /* Ajoutez une marge en haut pour séparer du titre */
+}
+
