@@ -70,7 +70,7 @@
   padding: 14px 16px;
   text-decoration: none;
   font-family: Macondo;
-  font-size: 25px; /* J'ai réduit la taille de police pour mieux s'adapter à la navbar */
+  font-size: 25px;
 }
 
 .navbar-hxh img {
@@ -111,7 +111,6 @@
   text-decoration: none;
   font-family: Macondo;
   font-size: 25px;
-
 }
 
 .navbar-kny img {
@@ -152,7 +151,6 @@
   text-decoration: none;
   font-family: Macondo;
   font-size: 25px;
-
 }
 
 .navbar-op img {

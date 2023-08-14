@@ -3,9 +3,10 @@
     justify-content: center;
     align-items: center;
     background-color: #98C57C;
-    height: 200px; /* Hauteur augmentée pour le contenu de "text-1" */
-    margin: 50px; /* Espacement autour du contenu de "text-1" */
+    height: 0%; /* Hauteur augmentée pour le contenu de "text-1" */
+    margin: 0%; /* Espacement autour du contenu de "text-1" */
     color: white; /* Couleur du texte */
     font-size: 24px; /* Taille de police du texte */
     text-align: center; /* Centrer le texte horizontalement */
+    block-size: 200px; 
 }
