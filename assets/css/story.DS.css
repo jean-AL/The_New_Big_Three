@@ -1,1 +1,40 @@
 @import url(/assets/css/nav.css);
+
+
+p{
+    font-family: 'Archivo Black',sans-serif;
+    font-size:20px;
+    font-style: normal;
+    font-weight:400px;
+    line-height: normal;
+    
+    align:center;
+    color:rgb(0, 0, 0);
+    position:flex;
+    margin:216px;
+    padding:0px;
+    float:center;
+}
+
+img.test1{
+    margin:0px;
+    padding:0;
+    flex-shrink: 0;
+    border-radius:10%;
+    flex-shrink: 0;
+    align-items:right;
+    background-color: blue;
+    justify-content: left;
+}
+
+
+img.test2{
+    margin:0px;
+    padding:0;
+    flex-shrink: 0;
+    border-radius:10%;
+    flex-shrink: 0;
+    align-items:left;
+    background-color:green;
+    justify-content: right;
+}
