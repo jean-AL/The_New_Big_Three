@@ -8,30 +8,64 @@ body { margin:0; padding: 0;
     display: flex;
     margin-left: auto;
     margin-right: auto;
+    width: 444px; 
+    height: 176px;
+    object-fit: contain;
     
 }
 
-.Netflix-news p {
+.Netflix-news h4 {
 
     text-align: center;
-    display: flex;
+    /* display: flex; */
     justify-content: center;
-    font-size: 40px;
+    font-size: 30px;
+    /* margin-top: -20px; */
 
 }
 
 #img-netflix-op {
 
     float: left;
-    width: 555px;
-    /* height: 913px; */
+    width: 555px; 
+    height: 400px;
     margin-top: 50px;
-    margin-right: 20px; /* Ajouter un espace entre l'image et le texte */
-    margin-left: 20px;
+    object-fit: contain;
 
 }
 
 #p1 {
+
+    font-size: 17px;
+    margin-top: 100px;
+    clear: right;
+}
+
+#p2 {
+
+    font-size: 17px;
+    margin-top: 70px;
+    clear: right;
+    
+}
+
+#p3 {
+
+    font-size: 17px;
+    margin-top: 70px;
+    clear: right;
+    
+}
+
+#p4 {
+
+    font-size: 17px;
+    margin-top: 70px;
+    clear: right;
+    
+}
+
+/* #p1 {
 
     float: right;
     width: 900px;
@@ -73,24 +107,25 @@ body { margin:0; padding: 0;
     margin-right: 20px;
     font-size: 28px;
 
-}
+} */
 
 /*                                     2EME PARTIE ANIME ONE PIECE                                          */
 
-#p5 {
+ #p5 {
 
     text-align: center;
     display: flex;
     justify-content: center;
-    font-size: 40px;
+    font-size: 28px;
+    margin-top: 200px;
 
 }
 
 #Anime {
 
     display: flex;
-    width: 1024px;
-    height: 635px;
+    width: 500px;
+    height: 235px;
     margin-left: auto;
     margin-right: auto;
     border-radius: 79px;
@@ -102,7 +137,7 @@ body { margin:0; padding: 0;
     text-align: center;
     display: flex;
     justify-content: center;
-    font-size: 40px;
+    font-size: 28px;
 
 }
 
@@ -111,6 +146,6 @@ body { margin:0; padding: 0;
     text-align: center;
     display: flex;
     justify-content: center;
-    font-size: 40px;
+    font-size: 28px;
 
 }
