@@ -14,6 +14,7 @@ body {
 
 .card-container_HxH {
     display: flex; /* Ajout de la propriété flex pour aligner les cartes côte à côte */
+    justify-content: space-around;
     background-color: #4E9F56;
 }
 
@@ -34,7 +35,7 @@ body {
 }
 
 #Demon-Slayer {
-    /*margin-right: 200px;*/
+    margin-right: 200px;
     
 }
 
