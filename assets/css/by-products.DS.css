@@ -8,7 +8,6 @@ p{
     font-size:49px;
     font-weight:550;
     line-height: normal;
-    align:top;
     color:rgb(0, 0, 0);
     position:flex;
     margin:70px;
@@ -49,13 +48,7 @@ margin:10px;
 }#img8{
     width: 200px;
     margin: 10px;
-    body { margin:0; padding: 0;
-        background-color: #dd5454;
-    }
-
-
-
-
+   
 
 }#img9{
     width: 200px;
