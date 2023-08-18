@@ -14,7 +14,6 @@ body {
 
 .card-container_HxH {
     display: flex; /* Ajout de la propriété flex pour aligner les cartes côte à côte */
-    justify-content: space-around;
     background-color: #4E9F56;
 }
 
@@ -30,13 +29,12 @@ body {
 }
 
 #One-Piece {
-    margin-left: 250px;
+    margin-left: 100px;
     margin-right: 150px;
 }
-
 #Demon-Slayer {
+    margin-left: 100px;
     margin-right: 200px;
-    
 }
 
 #HunterxHunter {

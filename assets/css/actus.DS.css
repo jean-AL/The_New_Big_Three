@@ -9,7 +9,7 @@ p{
     font-style: normal;
     font-weight:550;
     line-height: normal;
-    align:top;
+    text-align:top;
     color:rgb(0, 0, 0);
     position:flex;
     margin:70px;
@@ -33,7 +33,6 @@ img.logo{
     
     color:black;
     position:flex;
-    align:top;
     margin:20px;
     margin-right:20px;
     padding:0px;
