@@ -6,10 +6,8 @@ body { margin:0; padding: 0;
 p{
     font-family: 'Archivo Black',sans-serif;
     font-size:49px;
-    font-style:;
     font-weight:550;
     line-height: normal;
-    align:top;
     color:rgb(0, 0, 0);
     position:flex;
     margin:70px;
