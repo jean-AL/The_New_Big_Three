@@ -1,0 +1,51 @@
+/*story*/
+
+@import url(/assets/css/nav.css);
+
+body { margin:0; padding: 0;
+    background-color: #dd5454;
+}
+p{
+   /* font-family: 'Archivo Black',sans-serif;
+    font-size:20px;
+    font-style: normal;
+    width:200px;
+    height:200px ;
+    line-height: normal;        
+    position:flex;
+    margin:47px;
+    padding:0px;
+    display:flex ;*/
+    justify-content:center;
+    margin-top:-305px;
+    text-align: center;
+    font-size:20px;
+    margin-left:315px;
+    height:700px ;
+    width:1000px;
+    
+}
+
+img.test1{
+    margin-left:10px;
+    margin-top:10px;
+    
+    
+    
+}
+
+
+img.test2{
+   /* margin:0px;
+    padding:0;
+    flex-shrink: 0;
+    border-radius:10%;
+    flex-shrink: 0;
+    background-color:green;
+    justify-content: right;
+    position: absolute;
+    float: right;*/
+    float: right;
+    margin-top:-529px;
+    margin-right:90px;
+}

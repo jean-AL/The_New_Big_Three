@@ -1,0 +1,52 @@
+/*author*/
+body { margin:0; padding: 0;
+    background-color: #dd5454;
+}
+
+p{
+    font-family: 'Archivo Black',sans-serif;
+    font-size:25px;
+    font-style: normal;
+    font-weight:550;
+    line-height: normal;
+    color:rgb(0, 0, 0);
+    position:flex;
+    margin:70px;
+    padding:0px;
+    width: 500px;;
+    float:left;
+}
+
+img.croco{
+    margin-top:-70px;
+    margin-right:700px;
+    padding:0;
+    flex-shrink: 0;
+    border-radius:10%;
+    flex-shrink: 0;
+    float: right;
+    clear: right;
+
+}
+
+
+img.logo{
+    
+    
+    color:black;
+    position:flex;
+    margin-right:70px;
+    margin-top:-90px;
+    padding:0px;
+    float:right;
+}
+
+
+h1{
+    font-family: 'Archivo Black',sans-serif;
+    font-style: oblique;
+    font-weight:700;
+    text-decoration: underline;
+    margin-left:50px;
+    margin-top:60px;
+ }
