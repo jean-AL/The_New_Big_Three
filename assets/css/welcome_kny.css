@@ -1,0 +1,26 @@
+body { margin:0; padding: 0;
+    font-family: 'Macondo', cursive;
+}
+
+.background{
+    background-image: url("/assets/img/image_v.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+            min-height: 100vh;
+            position: relative; /* Ajout de position relative pour contenir le texte */
+            color: black; /* Couleur du texte */
+            margin-top: -40px;
+}
+
+.text{
+ width: 377px;
+ height: 677px;
+ flex-shrink: 0;
+ color:white;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ font-size: 40px;
+ font-style: normal;
+ font-weight: 400;
+ line-height: normal;
+}
